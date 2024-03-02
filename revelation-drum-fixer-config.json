@@ -1,7 +1,7 @@
 {
   "version":"1.0.0",
-  "status":1,
-  "msg":"SET MAX FILE 25KB",
+  "status":0,
+  "msg":"",
   "link":"https://gist.github.com/prinsia",
-  "opendonate":1
+  "opendonate":0
 }
