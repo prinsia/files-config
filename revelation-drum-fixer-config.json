@@ -3,6 +3,6 @@
   "status": 1,
   "msg": "Hello there",
   "link": "https://gist.github.com/prinsia",
-  "opendonate": 0,
+  "opendonate": 1,
   "_download_link_update":"https://github.com/prinsia/revelation-mobile-drum-fixer/archive/refs/tags/v1.0.2.zip"
 }
